@@ -1,0 +1,31 @@
+.admintbl tr th {text-align: left;}
+.clr{clear: both;}
+a {text-decoration: none !important;}
+h3.title {font-size:18px; color:#1E6CBE;font-weight:bold;text-transform: uppercase;width: 680px;
+margin:15px 0px;padding:10px; background:#ffffff;border-left: 4px solid #1E6CBE;}
+h3.setup {font-size: 18px;}
+.top {background: none repeat scroll 0 0 #FFFFFF;
+    border-left: 4px solid #1E6CBE;
+    line-height: 46px;
+    padding: 0 1em;}
+.top a {color:#1E6CBE;}
+.inner_wrap {margin:15px 0;}
+.inner_wrap .left{max-width:65%;width: 65%;float: left;}
+.right {max-width:33%;width: 33%;float: right;}
+.submitform {margin: 20px 0;}
+.admintbl {margin-top: 0px;}
+.bottom {width: 100%;}
+.bottom h3.title {width:92%;text-align: left;background:#fff url('../img/arrow_icon.png') right center no-repeat; cursor: pointer; }
+.button1 {background: #1E6CBE;color: #fff;border: 0 none;}
+.button1:hover {background:#555555;}
+.togglediv {margin-bottom: 20px;}
+#aboutauthortbl-comments-vivascroll {text-align:justify;}
+.company {font-size: 14px;font-weight: normal;margin-top: 0px;}
+#aboutauthortbl-comments-vivascroll p {margin-top: 0px;}
+#donateheretbl-comments-vivascroll p {text-align: left;margin-top: 0px;}
+#downloadtbl-comments-vivascroll {text-align: left;}
+#downloadtbl-comments-vivascroll a {font-size: 13px;}
+.admintbl tr th.rgtth {text-align: left;width: 50px;}
+.sub-tbl {float: left !important; max-width:50%;width: 48%;}
+
+

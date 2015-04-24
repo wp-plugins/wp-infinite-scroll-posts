@@ -4,7 +4,7 @@ Donate link: http://bit.ly/1icl56K
 Tags: pagination , post pagination ,ajax, scrolling, scroll, scroll posts, endless pager, infinite, infinite scroll
 License: GPLv2 or later
 Requires at least:3.2
-Tested up to:4.1.1
+Tested up to:4.2
 Stable tag: 1.0
 
 == Description ==

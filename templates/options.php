@@ -167,6 +167,13 @@
   </div> 
 </div>	
 <div class="bottom">
+		    <h3 id="donatehere-comments-vivascroll" class="title"><?php _e( 'Purchase Paid Plugin', 'wp-easy-scroll-posts' ); ?></h3>
+     <div id="donateheretbl-comments-vivascroll" class="togglediv">  
+     <p><?php _e( 'If you want to purchase , please click on below image.', 'wp-easy-scroll-posts' ); ?></p>
+	<a href="http://bit.ly/1HZGRBg " target="_blank"><img class="donate" src="<?php echo plugins_url( '../img/banner2.png' , __FILE__ ); ?>" width="336" height="280" title="<?php _e( 'Purchase Here', 'wp-easy-scroll-posts' ); ?>"></a>		
+  </div> 
+</div>	
+<div class="bottom">
  <h3 id="aboutauthor-comments-vivascroll" class="title">About The Author</h3>
      <div id="aboutauthortbl-comments-vivascroll" class="togglediv">  
 	<p> <strong>Vivacity InfoTech Pvt. Ltd. , an ISO 9001:2008 Certified Company,</strong>is a Global IT Services company with expertise in outsourced product development and custom software development with focusing on software development, IT consulting, customized development.We have 200+ satisfied clients worldwide.</p>	

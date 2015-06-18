@@ -6,7 +6,6 @@
 * Version: 1.0
 * Author: Vivacity Infotech Pvt. Ltd.
 * Author URI: http://www.vivacityinfotech.net
-* Author Email: support@vivacityinfotech.net
 * Text Domain: wp-easy-scroll-posts
 * Domain Path: /languages/
 Copyright 2014  Vivacity InfoTech Pvt. Ltd.  (email : support@vivacityinfotech.com)
